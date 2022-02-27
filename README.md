@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avishakdebroy
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/avishak-deb-roy-58290a174)
 
 <!---
