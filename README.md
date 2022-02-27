@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @avishakdebroy
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/avishak-deb-roy-58290a174)
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/avishak-deb-roy-58290a174)
 
 <!---
 avishakdebroy/avishakdebroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
