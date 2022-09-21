@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/avishak-deb-roy-58290a174)
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/avishakdebroy/)
 
 <!---
 avishakdebroy/avishakdebroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
